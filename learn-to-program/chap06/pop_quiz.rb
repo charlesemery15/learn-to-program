@@ -1,0 +1,11 @@
+#methods
+puts
+gets
+chomp
+to_s
+to_i
+to_f
++
+-
+/
+*
